@@ -1,5 +1,6 @@
 # Criptografia
 A criptografia é uma das áreas mais pesquisadas no contexto da computação. Diante disso, este assunto sempre está rodeado de interesse, já tendo sido representado em diversas mídias e na cultura pop. Portanto, o objetivo dessa pesquisa é descobrir como a criptografia está evoluindo desde o momento em que foi concebida até os dias atuais, o impacto na sociedade, como foi e ainda é representada na mídia, os mitos e verdades. Ademais e, mais importante, como ela é construída (codificação), tanto para defesa quanto para ataques.
+
 # Fontes
 https://www.ibm.com/think/topics/cryptography-history#542333542
 https://www.lawfaremedia.org/article/chatter-podcast-cryptography-history-and-movies-vince-houghton
@@ -7,3 +8,9 @@ https://www.cybersecurityinstitute.in/blog/the-role-of-cryptography-in-modern-cy
 https://www.networkershome.com/fundamentals/ethical-hacking/cryptography-attacks-breaking-weak-encryption/
 https://cs.nyu.edu/~dodis/ps/game.pdf
 https://cyberhero.rs/wp-content/uploads/2022/02/002_ISSES_Crypto_hacking_v004.pdf
+
+# Cicatrizes ou troubleshooting
+"Como são feitos os ataques criptográficos, considerando o código e ambiente de ataque?" 
+Para a resposta desta pergunta, "código" não foi interpretado como estruturas escritas por linguagem de programação e, desse modo, a resposta elencou apenas termos como "falha", "implementação" e "protocolo".
+
+*** Após esta pergunta, adicionei mais uma fonte que especifica algumas estruturas, implementadas majoritariamente em Python, que elucidaram a IA a me dar a resposta que procurava.
