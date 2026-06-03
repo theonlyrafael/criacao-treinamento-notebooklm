@@ -20,11 +20,24 @@ Incluindo nova pergunta:
 A resposta para esta pergunta foi satisfatória, atendendo aos pontos que gostaria de ter visto para a resposta da primeira pergunta.
 
 # Histórico de perguntas
-*** As respostas serão adicionadas no commit final, assim como a formatação da página.
-
 1° Pergunta: Qual a motivação por trás da pesquisa presente no aquivo PDF? Ademais, qual o assunto e a solução proposta diante do cenário da criptografia?
 
 2° Pergunta: Como são feitos os ataques criptográficos, considerando o código e ambiente de ataque?
-*** esta pergunta é a considerada cicatriz
+*** esta pergunta é a considerada "cicatriz"
 
 3° Pergunta: Com a adição de uma nova fonte, você consegue destrinchar a última pergunta agora?
+*** pergunta feita para solucionar "troubleshooting"
+
+4° Pergunta: Como o XOR binário ajuda a decifrar mensagens ocultas?
+
+5° Pergunta: Quais linguagens de programação são mais usadas para automação de criptoanálise?
+
+6° Pergunta: Como os rotores da máquina enigma atuavam? Explique dando o contexto do momento na história, teorias e citações na cultura pop envolvendo o mundo criptográfico.
+
+7° Pergunta: Qual o papel da criptografia no mundo moderno e as expectativas de atuação da mesma no futuro?
+
+8° Pergunta: Como a computação quântica pode quebrar a criptografia atual?
+
+9° Pergunta: Explique como funciona a técnica de Prova de Conhecimento Zero.
+
+10° Pergunta: Qual o conceito por trás da criptografia "pós"-quântica?
