@@ -1,2 +1,2 @@
-# criacao-treinamento-notebooklm
-Miniguia de estudos para um Notebooklm da Google.
+# Criptografia
+A criptografia é uma das áreas mais pesquisadas no contexto da computação. Diante disso, este assunto sempre está rodeado de interesse, já tendo sido representado em diversas mídias e na cultura pop. Portanto, o objetivo dessa pesquisa é descobrir como a criptografia está evoluindo desde o momento em que foi concebida até os dias atuais, o impacto na sociedade, como foi e ainda é representada na mídia, os mitos e verdades. Ademais e, mais importante, como ela é construída (codificação), tanto para defesa quanto para ataques.
