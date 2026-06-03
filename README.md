@@ -14,3 +14,7 @@ https://cyberhero.rs/wp-content/uploads/2022/02/002_ISSES_Crypto_hacking_v004.pd
 Para a resposta desta pergunta, "código" não foi interpretado como estruturas escritas por linguagem de programação e, desse modo, a resposta elencou apenas termos como "falha", "implementação" e "protocolo".
 
 *** Após esta pergunta, adicionei mais uma fonte que especifica algumas estruturas, implementadas majoritariamente em Python, que elucidaram a IA a me dar a resposta que procurava.
+
+Incluindo nova pergunta:
+"Com a adição de uma nova fonte, você consegue destrinchar a última pergunta agora?"
+A resposta para esta pergunta foi satisfatória, atendendo aos pontos que gostaria de ter visto para a resposta da primeira pergunta.
