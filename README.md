@@ -6,3 +6,4 @@ https://www.lawfaremedia.org/article/chatter-podcast-cryptography-history-and-mo
 https://www.cybersecurityinstitute.in/blog/the-role-of-cryptography-in-modern-cyber-defense-systems
 https://www.networkershome.com/fundamentals/ethical-hacking/cryptography-attacks-breaking-weak-encryption/
 https://cs.nyu.edu/~dodis/ps/game.pdf
+https://cyberhero.rs/wp-content/uploads/2022/02/002_ISSES_Crypto_hacking_v004.pdf
