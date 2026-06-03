@@ -18,3 +18,13 @@ Para a resposta desta pergunta, "código" não foi interpretado como estruturas 
 Incluindo nova pergunta:
 "Com a adição de uma nova fonte, você consegue destrinchar a última pergunta agora?"
 A resposta para esta pergunta foi satisfatória, atendendo aos pontos que gostaria de ter visto para a resposta da primeira pergunta.
+
+# Histórico de perguntas
+*** As respostas serão adicionadas no commit final, assim como a formatação da página.
+
+1° Pergunta: Qual a motivação por trás da pesquisa presente no aquivo PDF? Ademais, qual o assunto e a solução proposta diante do cenário da criptografia?
+
+2° Pergunta: Como são feitos os ataques criptográficos, considerando o código e ambiente de ataque?
+*** esta pergunta é a considerada cicatriz
+
+3° Pergunta: Com a adição de uma nova fonte, você consegue destrinchar a última pergunta agora?
