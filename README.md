@@ -82,3 +82,13 @@ Atue como um professor universitário e explique o conceito de [INSERIR ALGORITM
 Considerando a linguagem [INSERIR LINGUAGEM DE PROGRAMAÇÃO], explique passo a passo como seria a estrutura de código necessária para quebrar uma cifra de [INSERIR TIPO DE CIFRA]. Não abstraia; mencione as funções e operadores reais que seriam utilizados.
 
 ```
+---
+
+## 5. Conclusão
+
+Ao longo da pesquisa, o **NotebookLM** se mostrou uma ferramenta muito útil para organizar e aprofundar os estudos sobre criptografia. Mais do que gerar respostas, ele permitiu explorar diferentes fontes e, a partir disso, entender melhor temas que vão desde a história da criptografia até ataques e computação quântica.
+
+Além disso, ficou evidente que **a forma como as perguntas são feitas influencia diretamente a qualidade das respostas**. Quando surgiram respostas muito genéricas, foi possível melhorar os resultados adicionando novas fontes e refinando os prompts. Dessa forma, o próprio processo de questionamento acabou fazendo parte do aprendizado.
+
+Por fim, a experiência mostrou que o NotebookLM funciona melhor como uma **ferramenta de apoio ao estudo**, e não como uma substituição da análise crítica. Cabe ao pesquisador selecionar boas fontes, questionar as respostas e buscar diferentes perspectivas para chegar a conclusões mais confiáveis.
+
